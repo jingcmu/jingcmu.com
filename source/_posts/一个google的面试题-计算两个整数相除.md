@@ -1,11 +1,12 @@
 title: 一个google的面试题 计算两个整数相除
 date: 2014-09-17 20:07:09
 categories: 编程
-tags: [算法, Google]
 ---
 Divide number and return result in form of a string. e.g 100/3 result should be 33.(3) Here 3 is in brackets because it gets repeated continuously and 5/10 should be 0.5.
 
 这题难在怎么去判断循环和记录循环出现的位置
+
+<!--more-->
 
 上代码：
 

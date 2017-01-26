@@ -16,6 +16,7 @@ url: http://jingcmu.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+avatar: https://avatars.githubusercontent.com/jingcmu
 
 # Directory
 source_dir: source
